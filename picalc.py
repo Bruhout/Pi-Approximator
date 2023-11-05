@@ -1,4 +1,4 @@
-import oo as np
+import numpy as np
 
 
 a=np.arange(1,1000000,1)
